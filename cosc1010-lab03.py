@@ -1,9 +1,9 @@
-# dylan peterson
+# dylan peterson 
 # UWYO COSC 1010
-# Submission Date
+# Submission Date9/23/2024
 # Lab 03 
-# Lab Section: 
-# Sources, people worked with, help given to: 
+# Lab Section: lab 3
+# Sources, people worked with, help given to: no one i just used my notes from lecture 
 # your. just looked at my notes i took in my lecuture today and got it all done. 
 # comments
 # here
